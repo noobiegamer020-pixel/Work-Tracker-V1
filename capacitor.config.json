@@ -1,0 +1,6 @@
+{
+  "appId": "com.fielddayplanner.app",
+  "appName": "Field Day Planner",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
